@@ -154,5 +154,5 @@ h3{
 }
 h3:hover{
     color: lightslategray;
-    transition: 1s;
+    transition: 0.5s;
 }
