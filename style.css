@@ -138,4 +138,5 @@ height: 100%;
 }
 .camera:hover{
     opacity: 1;
+    transition: 1s;
 }
