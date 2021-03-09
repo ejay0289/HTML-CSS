@@ -61,7 +61,7 @@ body{
 }
 
 .portfolio-item-wrapper{
-    position: relative;
+    position: absolute;
 }
 
 .portfolio-img-background{
