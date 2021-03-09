@@ -136,3 +136,6 @@ height: 100%;
 .camera{
     opacity: 0;
 }
+.camera:hover{
+    opacity: 1;
+}
